@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "564404762174",
+    "project_id": "island-chat-27d4a",
+    "storage_bucket": "island-chat-27d4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564404762174:android:16a0b5cf52b84bc03a836f",
+        "android_client_info": {
+          "package_name": "com.example.island_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_BtbD-bCwZcsI9ouZ08sLsFTliGz-Kvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
